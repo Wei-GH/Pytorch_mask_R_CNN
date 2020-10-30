@@ -52,4 +52,4 @@
 * 链接4 [Faster R-CNN paper](https://arxiv.org/abs/1506.01497) [Faster R-CNN demo](https://github.com/WZMIAOMIAO/deep-learning-for-image-processing/tree/master/pytorch_object_detection/faster_rcnn) [理论讲解 视频序列](https://www.bilibili.com/video/BV1af4y1m7iL)
 
 ## 谢谢各位
-~~~ 谢谢你们， 感谢遇见 ~~~，
+~~~ 谢谢你们， 感谢遇见 ~~~
